@@ -1,33 +1,30 @@
 ---
-title: "About"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/author.jpg"
+title: Über uns
+date: 2019-05-14T14:46:10.000+06:00
+description: This is meta description
+image: images/author.jpg
+
 ---
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+# **Was macht eigentlich ein Förderverein?**
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Zunehmend werden Aufgaben rund um die Schule von Bund und Ländern auf die Gemeinden abgewälzt, ohne die Finanzierung zu gewährleisten. Die Gemeindekassen sind oft leer, nötige Investitionen in unseren Schulen bleiben auf der Strecke. Hier bieten Fördervereine den idealen Rahmen für die **Schulförderung**, um gesteckte Ziele trotzdem zu erreichen.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+# **Elternarbeit: fördert die Identifikation – bereichert den Schulalltag**
 
+Im Förderverein haben die Eltern Gelegenheit, den Schulalltag der Kinder mitzugestalten. Sie ermöglichen den Schülern Aktivitäten, die über den Umfang der Regelschule hinausgehen. So kommt eine Identifikation der Eltern mit der Schule zustande, die eine solide Grundlage für ein gutes Zusammenwirken zwischen Schule und Elternhaus bildet.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Durch die Arbeit des Fördervereins gewinnt die Schule neue Möglichkeiten und dadurch deutlich an Attraktivität. Viele zusätzliche pädagogisch wichtige Maßnahmen können so im Unterricht und auch jenseits des Stundenplans angeboten werden.
+
+# **Gemeinnützigkeit**
+
+Der Förderverein der Nordschule ist als gemeinnützig anerkannter eingetragener Verein steuerbegünstigt und kann **Spendenquittungen** ausstellen.
+
+Spenden an den Verein sind also steuerlich voll absetzbar. So konnten und können immer wieder **Sponsoren** außerhalb des Vereins für die Durchführung größerer Projekte gewonnen werden.
+
+Neben einigen weiteren steuerlichen Vorteilen begünstigt die Gemeinnützigkeit auch den Erhalt von öffentlichen Zuschüssen.
+
+# **Kleiner Beitrag – mit großer Wirkung**
+
+Es gibt viele Anlässe, bei denen der Förderverein Unterstützung gewähren kann. Umso mehr, wenn möglichst viele Eltern, Lehrer/innen und Freunde der Nordschule den Verein durch einen finanziellen Beitrag und durch ihr Engagement unterstützen.
+
+Ob aktive oder passive **Mitgliedschaft** (z.B. in Form einer Spende) – der Förderverein ist für jede Form der Unterstützung dankbar, denn sie kommt direkt dem Wohl unserer Kinder zugute.
