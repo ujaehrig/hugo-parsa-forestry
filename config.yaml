@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
@@ -53,17 +53,17 @@ params:
   email: exmaple@ymail.com
   address: 6 rip carl Avenue CA 90733
   contact_form_action: "#"
-  google_analitycs_id: Your ID
+  google_analitycs_id: ''
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
   instafeed:
-    enable: true
+    enable: false
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-  social:
-  - icon: ti-facebook
-    URL: "#"
-  - icon: ti-twitter-alt
-    URL: "#"
-  - icon: ti-linkedin
-    URL: "#"
-  - icon: ti-github
-    URL: "#"
+  social: []
+menu:
+  main:
+  - name: About
+    URL: about
+    weight: "2"
+  - name: Contact
+    URL: contact
+    weight: "3"
