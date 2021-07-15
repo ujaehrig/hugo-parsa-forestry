@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: '10'
-paginate: '6'
+summaryLength: "10"
+paginate: "6"
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: '1'
+  layout: "1"
   description: This is meta description
   preloader: true
   search: true
@@ -53,6 +53,17 @@ params:
   email: service@die-foerderer.net
   address: Friedhofstr. 1, 76149 Karlsruhe
   contact_form_action: "#"
+  google_analitycs_id: ''
+  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
   instafeed:
     enable: false
-  
+    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
+  social: []
+menu:
+  main:
+  - name: About
+    URL: about
+    weight: "2"
+  - name: Contact
+    URL: contact
+    weight: "3"
