@@ -49,21 +49,10 @@ params:
   author_image: images/banner-img.png
   bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
     and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+  mobile: "+49 721 709695"
+  email: service@die-foerderer.net
+  address: Friedhofstr. 1, 76149 Karlsruhe
   contact_form_action: "#"
-  google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
   instafeed:
-    enable: true
-    access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
-  social:
-  - icon: ti-facebook
-    URL: "#"
-  - icon: ti-twitter-alt
-    URL: "#"
-  - icon: ti-linkedin
-    URL: "#"
-  - icon: ti-github
-    URL: "#"
+    enable: false
+  
